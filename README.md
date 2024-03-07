@@ -13,8 +13,10 @@
 - [English](#english)
 
 ## Général
-1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte
-2.	Qu’est-ce qu’un algorithme ?  
+1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte<br>
+Nous pouvons utiliser Visual Studio Code (celui que j’utilise) et je connais également PhpStorm.<br>
+2.	Qu’est-ce qu’un algorithme ?  <br>
+Un algorithme c’est des instructions qui ont pour but de résoudre une tâche particulière.<br>
 3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
 4.	Qu’est-ce que la portée d’une variable ?
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
