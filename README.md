@@ -17,7 +17,8 @@
 Nous pouvons utiliser Visual Studio Code (celui que j’utilise) et je connais également PhpStorm.<br>
 2.	Qu’est-ce qu’un algorithme ?  <br>
 Un algorithme c’est des instructions qui ont pour but de résoudre une tâche particulière.<br>
-3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?<br>
+Une variable est une donnée sur laquelle nous allons travailler avec nos instructions, la donnée peut être de valeur numérique (integer ou float) un chaîne de caractère (string) et biens d’autres. Pour les notifiés dans le code nous utilisons le symbole “$” au début de nos variables. Voici un exemple «$name =”Adam”; » ici nous avons comme nom de variable «$name» et «=”Adam”;» est la donnée que nous donnons à cette variable.
 4.	Qu’est-ce que la portée d’une variable ?
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
